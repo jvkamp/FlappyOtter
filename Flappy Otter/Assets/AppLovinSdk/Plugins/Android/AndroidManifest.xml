@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.codahjojo.flappyotter">
+    <application>
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="rO4E4mUzJqMVnyim1FmJ8QtXJGq1Q4T6G0a4sO9UVBNdutJQ8PW-IneeKR3hMlGZiSXw-54vhfpMsk3ozMy331" />
+    </application>
+</manifest>
